@@ -7,4 +7,8 @@ scikit-learn
 TA-Lib
 PyNance
 jupyter
+<<<<<<< HEAD
 vaderSentiment
+=======
+
+>>>>>>> 71266893246200baf2699852f589650996fe3d99
